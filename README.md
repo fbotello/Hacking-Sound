@@ -1,2 +1,2 @@
 # Hacking-Sound
-materials for workshop
+sounds for workshop
